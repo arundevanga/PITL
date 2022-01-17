@@ -1,7 +1,0 @@
-D:\Projects\PITL\ReportGenerator\bin\Debug\ReportGenerator.exe.config
-D:\Projects\PITL\ReportGenerator\bin\Debug\ReportGenerator.exe
-D:\Projects\PITL\ReportGenerator\bin\Debug\ReportGenerator.pdb
-D:\Projects\PITL\ReportGenerator\obj\Debug\ReportGenerator.csprojAssemblyReference.cache
-D:\Projects\PITL\ReportGenerator\obj\Debug\ReportGenerator.csproj.CoreCompileInputs.cache
-D:\Projects\PITL\ReportGenerator\obj\Debug\ReportGenerator.exe
-D:\Projects\PITL\ReportGenerator\obj\Debug\ReportGenerator.pdb
